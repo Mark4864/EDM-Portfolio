@@ -6,6 +6,7 @@ Hello!, My name is Mark Bryan A. Cariño currently studying in City College of A
 Senior Highschool: Polytechnic College of Botolan
 Highschool: Angeles City National High School
 Elementary: Edilberto M. Ganzon Elementary School
-##My Projects
+
+## My Projects
 Midterm Lab Task 1:
 Midterm Lab Task 2:
