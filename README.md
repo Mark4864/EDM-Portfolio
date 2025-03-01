@@ -9,4 +9,5 @@ Elementary: Edilberto M. Ganzon Elementary School
 
 ## My Projects
 Midterm Lab Task 1:
+
 Midterm Lab Task 2:
