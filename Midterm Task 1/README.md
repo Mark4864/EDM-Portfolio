@@ -15,3 +15,5 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![screenshot](images/Pic1.png)
 ## STEP 4 Here's the screenshot of my output after I started data cleaning
 ![screenshot](images/Pic2.png)
+## Here's the Physical Data Model
+[cleaneddata-Mark.xlsx](https://github.com/user-attachments/files/19051416/cleaneddata-Mark.xlsx)
