@@ -10,6 +10,6 @@ Highschool: Angeles City National High School
 Elementary: Edilberto M. Ganzon Elementary School
 
 ## My Projects
-Midterm Lab Task 1:
+Midterm Lab Task 1: [Data Cleaning and Preparation]()
 
 Midterm Lab Task 2:
