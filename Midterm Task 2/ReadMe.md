@@ -43,7 +43,7 @@ For this task, we are provided with an Uncleaned_DS_jobs.csv dataset and tasked 
 - Select the columns and click OK  
 - Select Uncleaned DS Jobs query  
 - Choose the State Abbreviation column in both queries  
-- Click Merge → Click OK  
+- Click Merge > Click OK  
 - Rename the merged column as "State Full Name"  
 - Remove nulls and blanks
 ### Group by State  
