@@ -1,4 +1,4 @@
-# Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
+# Midterm Lab Task 2 - Data Cleaning and Preparation using Excel
 For this task, we are provided with an Uncleaned_DS_jobs.csv dataset and tasked with performing data cleaning and transformation using Power Query Editor in Excel to generate meaningful insights 
 ## STEP 1: Download and Load Data  
 - Download the dataset (Uncleaned_DS_jobs.csv)  
