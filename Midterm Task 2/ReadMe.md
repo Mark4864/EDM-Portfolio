@@ -53,7 +53,7 @@ For this task, we are provided with an Uncleaned_DS_jobs.csv dataset and tasked 
 - Multiply values by 1000 (Numbers Column > Standard > Multiply > Type 1000)
 - Group rows by State Full Name and get the average for Min and Max Salary
 ## Here are the screenshots showcasing the table transformation process:
-## Here's the screenshot of my output before and after I started data cleaning:
+## Here's the screenshot of my output before and after I started data cleaning
 ### Before:
 ![screenshot](Images/Uncleaned.PNG)
 ### After:
