@@ -24,6 +24,6 @@ For this task, we are provided with an Uncleaned_DS_jobs.csv dataset (from Kaggl
 - Remove any unwanted text from the Company Name column using Transform > Replace Values or Remove Text.
 ## STEP 3 Here's the screenshot of my output before I started data cleaning:
 ![screenshot]()
-## STEP 4 Here's the screenshot of my output after I started data cleaning:
+# STEP 4 Here's the screenshot of my output after I started data cleaning:
 ![screenshot]()
 ## Here's the File of My output:
