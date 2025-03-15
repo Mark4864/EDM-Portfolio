@@ -1,5 +1,5 @@
-# Midterm Task 3 - Creating PIVOT TABLE and DASHBOARD
-This portfolio is about creating an interactive Data Science Salary & Job Trends Dashboard using Excel.
+# Midterm Task 3 - Creating Pivot Table and Dashboard
+For this task we create an interactive Data Science Salary & Job Trends Dashboard using Excel.
 
 ## Step By Step Process:
 ### Open the Worksheet on Uncleaned DS Jobs and the Transform Tables:
@@ -10,7 +10,6 @@ This portfolio is about creating an interactive Data Science Salary & Job Trends
 - State with the most Data Science jobs
 - Job role with the highest average salary
 - Company size that pays the highest salary
-
 ### Create a pivot table:
 - Use pivot tables to summarize data for sector jobs and salary (d & e)
 - Generate charts for reports
