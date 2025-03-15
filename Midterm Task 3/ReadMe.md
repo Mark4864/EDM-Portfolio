@@ -10,8 +10,7 @@ This portfolio is about creating an interactive Data Science Salary & Job Trends
 - State with the most Data Science jobs
 - Job role with the highest average salary
 - Company size that pays the highest salary
-- Sector with the lowest & highest number of Data Science jobs
-- Sector with the minimum & maximum average salary
+
 ### Create a pivot table:
 - Use pivot tables to summarize data for sector jobs and salary (d & e)
 - Generate charts for reports
@@ -27,9 +26,12 @@ This portfolio is about creating an interactive Data Science Salary & Job Trends
 ## Here's the Screenshot of My Output:
 Sal by Role Type
 ![screenshot](Images/Role%20Type.PNG)
+
 Sal by Size
 ![screenshot](Images/Size.PNG)
+
 Sal by State
 ![screenshot](Images/State.PNG)
+
 Dashboard 
 ![screenshot](Images/Dashboard.PNG)
