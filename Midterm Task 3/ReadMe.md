@@ -23,14 +23,11 @@ For this task we create an interactive Data Science Salary & Job Trends Dashboar
 - The slicers should be functional and interactive
 
 ## Here's the Screenshot of My Output:
-Sal by Role Type
+- Sal by Role Type
 ![screenshot](Images/Role%20Type.PNG)
-
-Sal by Size
+- Sal by Size
 ![screenshot](Images/Size.PNG)
-
-Sal by State
+- Sal by State
 ![screenshot](Images/State.PNG)
-
-Dashboard 
+- Dashboard 
 ![screenshot](Images/Dashboard.PNG)
