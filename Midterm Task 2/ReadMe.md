@@ -3,7 +3,7 @@ For this task, we are provided with an Uncleaned_DS_jobs.csv dataset and tasked 
 ## STEP 1: Download and Load Data  
 - Download the dataset (Uncleaned_DS_jobs.csv)  
 - Open Excel  
-- Go to Data → New Query → Open File → Text/CSV  
+- Go to Data > New Query > Open File > Text/CSV  
 - Click Load and then Edit using Power Query Editor  
 ## STEP 2: Cleaning the Data and Normalization 
 ### Salary Estimate Column:
