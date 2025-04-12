@@ -20,29 +20,29 @@
 
 ## Query Statements & Table Structure:
 ### Task 1:
-#### Query
+#### Query:
 ![screenshot]()
-#### Table
+#### Table:
 ![screenshot]()
 ### Task 2:
-#### Query
+#### Query:
 ![screenshot]()
-#### Table
+#### Table:
 ![screenshot]()
 ### Task 3:
-#### Query
+#### Query:
 ![screenshot]()
-#### Table
+#### Table:
 ![screenshot]()
 ### Task 4:
-#### Query
+#### Query:
 ![screenshot]()
-#### Table
+#### Table:
 ![screenshot]()
 ### Task 5:
-#### Query
+#### Query:
 ![screenshot]()
-#### Table
+#### Table:
 ![screenshot]()
 ## ER Diagram:
 ![screenshot]()
