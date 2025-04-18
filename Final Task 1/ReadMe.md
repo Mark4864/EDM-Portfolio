@@ -21,29 +21,30 @@
 ## Query Statements & Table Structure:
 ### Task 1:
 #### Query:
-![screenshot]()
+![screenshot](Images/Employee.png)
 #### Table:
-![screenshot]()
+![screenshot](Images/Employee_tbl.png)
 ### Task 2:
 #### Query:
-![screenshot]()
+![screenshot](Images/Department.png)
 #### Table:
-![screenshot]()
+![screenshot](Images/Department_tbl.png)
 ### Task 3:
 #### Query:
-![screenshot]()
+![screenshot](Images/Employee_dept.png)
 #### Table:
-![screenshot]()
+![screenshot](Images/Employee_dept_tbl.png)
 ### Task 4:
 #### Query:
-![screenshot]()
+![screenshot](Images/Employee_proj.png)
 #### Table:
-![screenshot]()
+![screenshot](Images/Employee_proj_tbl.png)
 ### Task 5:
 #### Query:
-![screenshot]()
+![screenshot](Images/Manager.png)
 #### Table:
-![screenshot]()
+![screenshot](Images/Manager_tbl.png)
 ## ER Diagram:
-![screenshot]()
+![screenshot](Images/ER_DIAGRAM.png)
 ## MySQL File
+
