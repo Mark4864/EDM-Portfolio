@@ -47,4 +47,3 @@
 ## ER Diagram:
 ![screenshot](Images/ER_DIAGRAM.png)
 ## MySQL File
-
