@@ -15,12 +15,12 @@
 ## Query Statements & Table Structure:
 ### Student:
 #### Query:
-![screenshot](Images/Student.png)
+![screenshot](Images/.png)
 #### Table:
 ![screenshot](Images/Student_tbl.png)
 ### Assignment:
 #### Query:
-![screenshot](Images/Assignment.png)
+![screenshot](Images/.png)
 #### Table:
 ![screenshot](Images/Assignment_tbl.png)
 ### Submission:
