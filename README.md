@@ -14,3 +14,4 @@ Hello!, My name is Mark Bryan A. Cariño, currently studying in City College of 
 - Midterm Lab Task 3: [Creating Pivot Table and Dashboard](Midterm%20Task%203)
 ### Finals
 - Finals Lab Task 1: [MySql Basics](Final%20Task%201)
+- Finals Lab Task 2: [Transforming ER Model to Relational Tables](Final%20Task%202)
