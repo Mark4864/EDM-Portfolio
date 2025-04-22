@@ -1,4 +1,4 @@
-# Final Lab Task 2 - Transforming ER MODEL to Relational Tables
+# Final Lab Task 2 - Transforming ER Model to Relational Tables
 
 ## $\color{orange}{\textsf{Student}}$ Table:
 - **username**: String (VARCHAR),up to 50 characters.
