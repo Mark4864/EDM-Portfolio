@@ -1,4 +1,4 @@
-# Final Lab Task 3-1 - Using  MYSQL Clause
+# Final Lab Task 3.1 - Using  MYSQL Clause
 
 ## Task 1:
 - Retrieve all courses where **students_enrolled** is less than the **enrollment_limit**.
