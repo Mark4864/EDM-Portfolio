@@ -1,11 +1,11 @@
 # Final Lab Task 3 - Table Manipulation
 
-## Task 1: Create a table named $\color{orange}{\textsf{product}}$ with the following fields:
+## Task 1: Create a table named product with the following fields:
 - **id**: Unique interger, auto=increment, primary key.
 - **product_name**: String (VARCHAR) with a maximum length of 100, cannot be null.
 - **price**: Decimal
-## Task 2: Add a $\color{orange}{\textsf{Check}}$ constraint to ensure that the $\color{orange}{\textsf{price}}$ of the product must be greater than 0.
-## Task 3: Insert the products that will not violate the check constraint into the $\color{orange}{\textsf{products}}$ table.
+## Task 2: Add a Check constraint to ensure that the price of the product must be greater than 0.
+## Task 3: Insert the products that will not violate the check constraint into products table.
 - Product 1: "Laptop", 999.99
 - Product 2: "Headphones", -49.99
 - Product 3: "Smartphone", 599.99
