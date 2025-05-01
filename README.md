@@ -1,8 +1,10 @@
 # EDM-Portfolio
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises
 ## About Me
-![Mark-Bryan](https://github.com/user-attachments/assets/f689a0f0-96c0-4298-9445-5af1724dc085)
+<img src="https://github.com/user-attachments/assets/754f1720-67c2-4cc5-8faa-b28931625ae3" width="175" height="200">
+
 Hello!, My name is Mark Bryan A. Cariño, currently studying in City College of Angeles as a BSIS Student
+
 ## Education
 - Senior Highschool: Polytechnic College of Botolan
 - Highschool: Angeles City National High School
