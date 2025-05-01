@@ -1,12 +1,12 @@
 # Final Lab Task 2 - Transforming ER Model to Relational Tables
 
-## $\color{orange}{\textsf{Student}}$ Table:
+## Student Table:
 - **username**: String (VARCHAR),up to 50 characters.
-## $\color{orange}{\textsf{Assignment}}$ Table:
+## Assignment Table:
 - **shortname**: String (VARCHAR),up to 50 characters.
 - **due_date**: Date, cannot be null.
 - **url**: String (VARCHAR),up to 255 characters, can be null.
-## $\color{orange}{\textsf{Submission}}$ Table:
+## Submission Table:
 - **username**: String (VARCHAR),up to 50 characters.
 - **shortname**: String (VARCHAR),up to 50 characters.
 - **version**: Integer, represents the version of the submission.
