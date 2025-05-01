@@ -7,11 +7,11 @@
 ## Task 2: Create a table named departments with the following fields:
 - **department_id**: Unique interger, auto-increment,primary key.
 - **department_name**: String (VARCHAR) with up to 255 characters, not null.
-## Task 3: Create a table named employee departments with the following fields:
+## Task 3: Create a table named employee_departments with the following fields:
 - **employee_id**: Interger, foreign key referencing **employee_id** in **employees**.
 - **department_id**: Interger, foreign key referencing **department_id** in **departments**.
 - Composite primary key (**employee_id**, **department_id**).
-## Task 4: Create a table named employee projects with the following fields:
+## Task 4: Create a table named employee_projects with the following fields:
 - **employee_id**: Interger, foreign key referencing **employee_id** in **employees**.
 - **project_name**: String (VARCHAR) with up to 255 characters, not null.
 ## Task 5: Create a table named managers with the following fields:
