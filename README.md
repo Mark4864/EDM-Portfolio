@@ -20,3 +20,4 @@ Hello!, My name is Mark Bryan A. Cariño, currently studying in City College of 
 - Finals Lab Task 2: [Transforming ER Model to Relational Tables](Final%20Task%202)
 - Finals Lab Task 3: [Table Manipulation](Final%20Task%203)
 - Finals Lab Task 3.1: [Using MYSQL Clause](Final%20Task%203-1)
+- Finals Lab Task 5: [Using SQL Views, Stored Procedures and Functions](Final%20Task%205)
