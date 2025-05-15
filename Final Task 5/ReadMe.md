@@ -13,24 +13,26 @@
 ### Query Statements & Table Structure:
 ### Task 1:
 #### Query:
-![screenshot]()
+![screenshot](Images/Task-1.PNG)
 #### Table:
-![screenshot]()
+![screenshot](Images/Task-1-Tbl.PNG)
 ### Task 2:
 #### Query:
-![screenshot]()
+![screenshot](Images/Task-2.PNG)
+#### Table:
+![screenshot](Images/Task-2-tbl.PNG)
 ### Task 3:
 #### Query:
-![screenshot]()
+![screenshot](Images/Task-3.PNG)
 #### Table:
-![screenshot]()
+![screenshot](Images/Task-3-tbl.PNG)
 ## Task 4:
 #### Query:
-![screenshot]()
+![screenshot](Images/Task-4.PNG)
 #### Table
-![screenshot]()
+![screenshot](Images/Task-4-tbl.PNG)
 ## Task 5:
 #### Query:
-![screenshot]()
+![screenshot](Images/Task-5.PNG)
 #### Table
-![screenshot]()
+![screenshot](Images/Task-5-tbl.PNG)
