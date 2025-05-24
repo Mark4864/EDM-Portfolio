@@ -2,7 +2,9 @@
 ## MongoDB Exercise in Mongo Shell
 ### Create Database
 Connect to a running mongo instance, use a database named `mongo_practice`.
-- use mongo_practice
+```
+use mongo_practice
+```
 ### Insert Documents
 Insert the following documents into a `movies` collection.
 ```
