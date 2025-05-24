@@ -153,23 +153,3 @@ Delete the movie &quot;Avatar&quot;
 ```
 db.movies.remove({_id:ObjectId(&quot;5c9f9936e5c2dfe9b3729c01&quot;)})
 ```
-### Mongo Shell:
-### Create Database:
-![screenshot](Images/DataBase.png)
-### Insert Documents:
-#### Fight Club
-![screenshot](Images/Fight%20Club.png)
-#### Pulp Fiction
-![screenshot](Images/Pulp%20Fiction.png)
-#### Inglorious Basterds
-![screenshot](Inglorious%20Basterds.png)
-#### The Hobbit: An Unexpected Journey
-![screenshot](Images/The%20Hobbit-%20An%20Unexpected%20Journey.png)
-#### The Hobbit: The Desolation of Smaug
-![screenshot](Images/The%20Hobbit-%20The%20Desolation%20of%20Smaug.png)
-#### The Hobbit: The Battle of the Five Armies
-![screenshot](Images/The%20Hobbit-%20The%20Battle%20of%20the%20Five%20Armies.png)
-#### Pee Wee Herman's Big Adventure
-![screenshot](Images/Pee%20Wee%20Herman's%20Big%20Adventure.png)
-#### Avatar
-![screenshot](Images/Avatar.png)
